@@ -1,4 +1,3 @@
-# tensorflow_tutorial
 <h1>A brief introduction to tensorflow<h1>
 
 <h2>Step 1: background on tensorflow</h2>
@@ -28,11 +27,11 @@
  </ul>
 
 Code:
->>>X = tf.placeholder(tf.float32,[3], name='X')
->>>Y = tf.placeholder(tf.float32,[3], name='Y')
->>>mult = X * tf.transpose(Y)
->>>sess = tf.InteractiveSession()
->>>sess.run(mult, feed_dict={X:[1,2,3], Y:[1,2,3]})
+<p>>>>X = tf.placeholder(tf.float32,[3], name='X')</p>
+<p>>>>Y = tf.placeholder(tf.float32,[3], name='Y')</p>
+<p>>>>mult = X * tf.transpose(Y)</p>
+<p>>>>sess = tf.InteractiveSession()</p>
+<p>>>>sess.run(mult, feed_dict={X:[1,2,3], Y:[1,2,3]})</p>
 
 <h3>Step 4: your first neural network</h3>
 Follow the instructions at https://www.tensorflow.org/versions/r1.1/get_started/mnist/beginners
