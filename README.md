@@ -1,7 +1,9 @@
 <h1>A brief introduction to tensorflow<h1>
 
-Download tensorflow at https://www.tensorflow.org/install/
-If using conda, download at https://conda.io/docs/user-guide/install/download.html
+<ul>
+  <li>Download tensorflow at https://www.tensorflow.org/install/</li>
+  <li>If using conda, download at https://conda.io/docs/user-guide/install/download.html</li>
+</ul>
 
 <h2>Step 1: background on tensorflow</h2>
 <ul>
