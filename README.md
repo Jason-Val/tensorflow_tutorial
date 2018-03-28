@@ -1,5 +1,4 @@
 <h1>A brief introduction to tensorflow<h1>
-
 <h2>Step 1: background on tensorflow</h2>
 <ul>
   <li>Tensor: an array or matrix of values</li>
@@ -34,4 +33,6 @@ Code:
 <p>>>>sess.run(mult, feed_dict={X:[1,2,3], Y:[1,2,3]})</p>
 
 <h3>Step 4: your first neural network</h3>
-Follow the instructions at https://www.tensorflow.org/versions/r1.1/get_started/mnist/beginners
+<p>Follow the instructions at https://www.tensorflow.org/versions/r1.1/get_started/mnist/beginners</p>
+<p>These instructions are for an outdated version of tensorflow, but still work. I choose this tutorial because it is very simple, and exposes the math behind the neural network. More recent tutorials focus on data manipulation/feature extraction and use of the high level estimators API.</p>
+<p>Those wishing more experience with ML and tensorflow should follow the more recent tutorial, available here: https://www.tensorflow.org/get_started/get_started_for_beginners</p>
