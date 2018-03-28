@@ -1,4 +1,4 @@
-<h1>A brief introduction to tensorflow<h1>
+<h1>A brief introduction to tensorflow</h1>
 
 <ul>
   <li>Download tensorflow at https://www.tensorflow.org/install/</li>
